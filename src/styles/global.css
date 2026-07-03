@@ -209,9 +209,17 @@ button {
 }
 
 .site-header.scrolled {
-  background: oklch(0.23 0.052 258 / 0.92);
-  backdrop-filter: blur(14px);
+  background: oklch(0.23 0.052 258 / 0.96);
   box-shadow: 0 1px 0 oklch(0.38 0.055 250 / 0.6);
+}
+
+/* blur only on desktop: backdrop-filter makes the header the containing
+   block for position:fixed children, which breaks the mobile nav overlay */
+@media (min-width: 861px) {
+  .site-header.scrolled {
+    background: oklch(0.23 0.052 258 / 0.92);
+    backdrop-filter: blur(14px);
+  }
 }
 
 /* in light theme, the scrolled header becomes a light surface —

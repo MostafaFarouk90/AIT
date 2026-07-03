@@ -22,6 +22,14 @@ export default function Header({ solid = false }: { solid?: boolean }) {
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
 
+  // lock page scroll while the mobile menu overlay is open
+  useEffect(() => {
+    document.documentElement.style.overflow = open ? 'hidden' : ''
+    return () => {
+      document.documentElement.style.overflow = ''
+    }
+  }, [open])
+
   const toggleLang = () => {
     const next = i18n.resolvedLanguage?.startsWith('ar') ? 'en' : 'ar'
     i18n.changeLanguage(next)
