@@ -35,9 +35,10 @@ export default function Header({ solid = false }: { solid?: boolean }) {
     i18n.changeLanguage(next)
   }
 
-  // the header surface is navy over the hero and (in light mode) white once
-  // scrolled — pick the logo variant that matches what it actually sits on
-  const onLightSurface = (scrolled || solid) && theme === 'light' && !open
+  // the header sits on navy over the hero; in light mode it sits on white
+  // once scrolled or when the mobile menu overlay (theme-colored) is open —
+  // pick the logo variant that matches what it actually sits on
+  const onLightSurface = theme === 'light' && (scrolled || solid || open)
   const logoSrc = import.meta.env.BASE_URL + (onLightSurface ? 'logo-light.svg' : 'logo-dark.svg')
 
   return (

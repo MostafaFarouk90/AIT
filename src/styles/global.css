@@ -387,6 +387,35 @@ html[lang='en'] .lang-toggle {
     position: relative;
     z-index: calc(var(--z-overlay) + 1);
   }
+
+  /* the menu overlay follows the theme: white in light mode, navy in dark */
+  :root[data-theme='light'] .main-nav {
+    background: var(--bg);
+  }
+
+  :root[data-theme='light'] .site-header .main-nav a {
+    color: var(--muted);
+  }
+
+  :root[data-theme='light'] .site-header .main-nav a:hover {
+    color: var(--ink);
+  }
+
+  :root[data-theme='light'] .site-header .main-nav .lang-toggle,
+  :root[data-theme='light'] .site-header .main-nav .icon-toggle {
+    border-color: var(--line);
+    color: var(--ink);
+  }
+
+  :root[data-theme='light'] .site-header .main-nav .lang-toggle:hover,
+  :root[data-theme='light'] .site-header .main-nav .icon-toggle:hover {
+    border-color: var(--muted);
+    background: var(--surface);
+  }
+
+  :root[data-theme='light'] .site-header .main-nav.open ~ .menu-btn {
+    color: var(--ink);
+  }
 }
 
 /* ---------------------------------------------------------------
