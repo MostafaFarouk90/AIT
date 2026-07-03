@@ -18,7 +18,7 @@ export default function Footer() {
             <a href="#top" className="wordmark">
               <img
                 className="logo-img"
-                src="/logo-dark.svg"
+                src={`${import.meta.env.BASE_URL}logo-dark.svg`}
                 alt={t('brand.full')}
                 width="545"
                 height="100"

@@ -30,7 +30,7 @@ export default function ProjectsPage() {
             {items.map((item, i) => (
               <Reveal key={item.page} delay={0.05 * (i % 3)} className="pcard">
                 <img
-                  src={`/projects/page-${item.page}.jpg`}
+                  src={`${import.meta.env.BASE_URL}projects/page-${item.page}.jpg`}
                   alt={item.name}
                   loading={i < 6 ? 'eager' : 'lazy'}
                 />

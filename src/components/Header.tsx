@@ -30,7 +30,7 @@ export default function Header({ solid = false }: { solid?: boolean }) {
   // the header surface is navy over the hero and (in light mode) white once
   // scrolled — pick the logo variant that matches what it actually sits on
   const onLightSurface = (scrolled || solid) && theme === 'light' && !open
-  const logoSrc = onLightSurface ? '/logo-light.svg' : '/logo-dark.svg'
+  const logoSrc = import.meta.env.BASE_URL + (onLightSurface ? 'logo-light.svg' : 'logo-dark.svg')
 
   return (
     <header className={`site-header${scrolled || solid ? ' scrolled' : ''}`}>
