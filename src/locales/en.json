@@ -1,0 +1,440 @@
+{
+  "brand": {
+    "short": "AIT",
+    "full": "Advanced Integrated Technologies",
+    "tagline": "Security systems integrator — Dubai, UAE"
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "clients": "Clients",
+    "contact": "Contact",
+    "cta": "Start a project",
+    "langLabel": "العربية",
+    "themeDark": "Switch to dark mode",
+    "themeLight": "Switch to light mode",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+  "hero": {
+    "headline": "Security, engineered into the fabric of the building.",
+    "sub": "AIT designs, installs, and integrates security and low-current systems across the Middle East — from villa compounds to Expo City. One accountable team, from cable tray to control room.",
+    "ctaPrimary": "Start a project",
+    "ctaSecondary": "Explore services",
+    "since": "Established in 2014",
+    "location": "Port Saeed, Deira — Dubai",
+    "imageAlt": "Sheikh Zayed Road towers at dusk, Dubai"
+  },
+  "clients": {
+    "kicker": "Trusted on projects for",
+    "names": [
+      "Expo City Dubai",
+      "Mitsubishi Corporation",
+      "Federal Authority for Government HR",
+      "Abu Dhabi University",
+      "Habib Al Mulla & Partners",
+      "Marina Mall Abu Dhabi",
+      "Dubai Hills Estate",
+      "Falcon Aviation",
+      "Pure Gold Development"
+    ]
+  },
+  "about": {
+    "pull": "“The best — not necessarily the largest.”",
+    "pullNote": "Our vision, in our own words",
+    "body1": "AIT is a security systems integrator based in Dubai, working across the Middle East and North Africa. We are much more than a product distributor: a state-of-the-art integrator committed to cost-effective yet leading-edge security and low-current solutions.",
+    "body2": "Traditional security is no longer enough. Keys and cards can be lent, lost, copied, or stolen; PIN codes can be observed or forgotten — and a breach may go unnoticed for days. We build integrated systems where access, surveillance, fire, and building management speak to each other.",
+    "imageAlt": "Aerial view of Burj Al Arab and the Dubai coastline",
+    "values": {
+      "title": "How we work",
+      "items": [
+        {
+          "name": "Fairness & honesty",
+          "text": "Straight answers on scope, cost, and schedule — before and after the contract is signed."
+        },
+        {
+          "name": "Quality & integrity",
+          "text": "BICSI, ANSI, and EIA/TIA standards behind every cable pulled and every reader mounted."
+        },
+        {
+          "name": "Continuous improvement",
+          "text": "More than twelve years of security systems experience, and a methodology that gets sharper with each project."
+        }
+      ]
+    }
+  },
+  "services": {
+    "title": "Four service lines. One accountable partner.",
+    "intro": "In-house design, coordination, procurement, and installation — bundled so that responsibility never falls between contractors.",
+    "items": [
+      {
+        "name": "Security & Low-Current Integration",
+        "summary": "Full turnkey electronic security and structured infrastructure for buildings of every scale.",
+        "tags": [
+          "Integrated Security Management",
+          "Access Control",
+          "CCTV & Surveillance",
+          "Fire Alarm Interface",
+          "RFID & Asset Tracking",
+          "BMS Integration",
+          "SMATV",
+          "Structured Cabling"
+        ],
+        "imageAlt": "Wall of CCTV surveillance cameras"
+      },
+      {
+        "name": "Datacenter Business Solutions",
+        "summary": "Server, storage, virtualization, and continuity — tailored to the business need.",
+        "tags": [
+          "On-Premises Infrastructure",
+          "Cloud — Azure & O365",
+          "Hybrid Architecture",
+          "Backup & Recovery",
+          "Antivirus & Endpoint Security"
+        ],
+        "imageAlt": "Server racks with patch cabling in a datacenter"
+      },
+      {
+        "name": "Network & Security Solutions",
+        "summary": "Turnkey network design and hardening by engineers who have designed, deployed, and operated networks across the region.",
+        "tags": [
+          "Network Design & Implementation",
+          "Consultation",
+          "Routers & Switches",
+          "Firewalls & IPS",
+          "Security Appliances",
+          "High Availability"
+        ],
+        "imageAlt": "Network patch panel with labelled cables"
+      },
+      {
+        "name": "Tailored Application Solutions",
+        "summary": "A dedicated software team building applications shaped to your budget and needs.",
+        "tags": [
+          "VR Applications",
+          "Legal Practice Systems",
+          "Accounting Software",
+          "Educational Platforms"
+        ],
+        "imageAlt": "Close-up of a red printed circuit board"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proof, delivered.",
+    "intro": "A reference list built project by project across the UAE — towers, hotels, campuses, parks, and one 40-metre-deep pool.",
+    "viewAll": "View all projects",
+    "scopeLabel": "Scope",
+    "featured": [
+      {
+        "name": "Expo City Dubai",
+        "place": "Dubai",
+        "text": "Fiber connectivity, structured cabling for 45 police offices, and IoT sensor networks across the Expo City site.",
+        "scope": ["Fiber Optics", "Structured Cabling", "IoT Sensors"]
+      },
+      {
+        "name": "Mitsubishi Corporation — Middle East HQ",
+        "place": "Dubai · Abu Dhabi · Qatar · Saudi Arabia",
+        "text": "Approved Middle East security provider: fully centralized CCTV and access control across all regional facilities.",
+        "scope": ["CCTV", "Access Control", "Regional Centralization"]
+      },
+      {
+        "name": "Pearl Diving Pool",
+        "place": "Nad Al Sheba, Dubai",
+        "text": "Full access control for a 40-metre-deep indoor diving facility: 40+ fingerprint readers on redundant controllers, integrated with fire alarm, CCTV, BMS, and gate barriers.",
+        "scope": ["Biometric Access", "Redundant Controllers", "Systems Integration"]
+      },
+      {
+        "name": "Shada Hotel, Jumeirah",
+        "place": "Dubai",
+        "text": "Complete hospitality technology stack: guest room management, IPTV, IP telephony, back-of-house access, and occupancy systems.",
+        "scope": ["Hospitality Systems", "IPTV", "IP Telephony", "GRM"]
+      },
+      {
+        "name": "Abu Dhabi University",
+        "place": "Abu Dhabi",
+        "text": "Campus-wide GSM system modernization program.",
+        "scope": ["GSM Modernization", "Campus Coverage"]
+      },
+      {
+        "name": "Nasma Central Park",
+        "place": "Sharjah",
+        "text": "Outdoor CCTV for the full park: industrial poles, switches, and fiber/Cat6A backbones to the main control room.",
+        "scope": ["Outdoor CCTV", "Fiber Backbone", "Control Room"]
+      }
+    ]
+  },
+  "projectsPage": {
+    "title": "Reference list",
+    "intro": "Previous projects designed and delivered by AIT across the Emirates, as published in the AIT company profile 2025.",
+    "back": "Back to home",
+    "note": "The full client list is available upon request.",
+    "items": [
+      {
+        "page": 14,
+        "name": "Federal Authority for Government Human Resources",
+        "place": "UAE",
+        "text": "High-resolution CCTV system securing the Federal Authority's premises."
+      },
+      {
+        "page": 15,
+        "name": "Pearl Diving Pool",
+        "place": "Nad Al Sheba, Dubai",
+        "text": "Indoor scuba diving facility of approximately 5,000 GFA, 40 m deep. Full access control with more than 40 touch fingerprint readers and redundant controllers, fully integrated with fire alarm, CCTV, BMS, and gate barrier systems."
+      },
+      {
+        "page": 16,
+        "name": "Camel & Falcon Activity and Race Building (B+G+1)",
+        "place": "Umm Al Mo'mineen",
+        "text": "Complete low-current systems: CCTV, structured cabling, and access control."
+      },
+      {
+        "page": 17,
+        "name": "Expo City Dubai",
+        "place": "Dubai",
+        "text": "Fiber connectivity, structured cabling for 45 police offices, IoT sensors, and further services across the Expo City site."
+      },
+      {
+        "page": 18,
+        "name": "Falcon Aviation Maintenance Hangar",
+        "place": "Dubai South",
+        "text": "Complete low-current systems: CCTV, access control, SMATV, gate barrier, and structured cabling."
+      },
+      {
+        "page": 19,
+        "name": "BIN Yaber Driving Institute",
+        "place": "Jebel Ali, Dubai",
+        "text": "Complete low-current systems: CCTV, access control, SMATV, gate barrier, and structured cabling."
+      },
+      {
+        "page": 20,
+        "name": "Nasma Central Park",
+        "place": "Sharjah",
+        "text": "Outdoor CCTV for the full park: industrial poles, switches, and fiber/Cat6A cabling connecting to the main CCTV room."
+      },
+      {
+        "page": 21,
+        "name": "Padel Court at Al Wasl Road",
+        "place": "Dubai",
+        "text": "Complete low-current systems: CCTV, structured cabling, access control, and gate barrier."
+      },
+      {
+        "page": 22,
+        "name": "Mitsubishi HQ for the Middle East and Central Asia",
+        "place": "Dubai · Abu Dhabi · Qatar · Saudi Arabia",
+        "text": "Approved Middle East security provider for Mitsubishi Corporation: complete CCTV and access control across all regional facilities, with full centralization."
+      },
+      {
+        "page": 23,
+        "name": "Habib Al Mulla & Partners",
+        "place": "Dubai",
+        "text": "Complete IT solutions: hybrid infrastructure, network backbone, IP telephony, and a full backup solution."
+      },
+      {
+        "page": 24,
+        "name": "Silverene Tower",
+        "place": "Dubai Marina",
+        "text": "CCTV system and access control securing all entrances and exits."
+      },
+      {
+        "page": 25,
+        "name": "MAG 214 Tower (G+40)",
+        "place": "Jumeirah Lakes Towers",
+        "text": "PA system rectification after failed attempts by more than five companies, and replacement of separate access control systems with one centralized system for the full building."
+      },
+      {
+        "page": 26,
+        "name": "Commercial & Residential Building (G+3P+18)",
+        "place": "Business Bay",
+        "text": "Complete low-current systems: CCTV, access control, SMATV, intercom, gate barrier, and structured cabling."
+      },
+      {
+        "page": 27,
+        "name": "G+4P+14 Building",
+        "place": "Al Jaddaf",
+        "text": "Complete low-current systems: CCTV, structured cabling, access control, and intercom."
+      },
+      {
+        "page": 28,
+        "name": "G+12 Tower",
+        "place": "Al Nahda",
+        "text": "Complete low-current systems: CCTV, access control, intercom, SMATV, gate barrier, and structured cabling."
+      },
+      {
+        "page": 29,
+        "name": "G+12 Building",
+        "place": "Al Nahda 1",
+        "text": "Complete low-current systems: CCTV, access control, SMATV, intercom, gate barrier, and structured cabling."
+      },
+      {
+        "page": 30,
+        "name": "Shada Hotel (G+2P+9)",
+        "place": "Jumeirah, Dubai",
+        "text": "Complete low-current and hospitality systems: CCTV, back-of-house access control, structured cabling, gate barrier, guest room management, IP telephony, IPTV, networking, and occupancy systems."
+      },
+      {
+        "page": 31,
+        "name": "G+10 Tower",
+        "place": "Port Saeed Road, Dubai",
+        "text": "Complete low-current systems: CCTV, access control, intercom, SMATV, gate barrier, and structured cabling."
+      },
+      {
+        "page": 32,
+        "name": "Residential Building (G+2P+6)",
+        "place": "Warsan 1, Dubai",
+        "text": "Complete low-current systems: CCTV, access control, SMATV, intercom, gate barrier, and structured cabling."
+      },
+      {
+        "page": 33,
+        "name": "B+G+M+5+Gym Building",
+        "place": "Al Karama — Wasl",
+        "text": "Complete low-current systems: CCTV, access control, SMATV, intercom, gate barrier, and structured cabling."
+      },
+      {
+        "page": 34,
+        "name": "G+3 Building",
+        "place": "Al Warqa 1",
+        "text": "Complete low-current systems: CCTV, access control, SMATV, intercom, gate barrier, and structured cabling."
+      },
+      {
+        "page": 35,
+        "name": "G+3 Building",
+        "place": "Wadi Al Safa 2",
+        "text": "Complete low-current systems: CCTV, access control, SMATV, intercom, gate barrier, and structured cabling."
+      },
+      {
+        "page": 36,
+        "name": "G+4 Building",
+        "place": "Jumeirah Village Circle",
+        "text": "Structured cabling system."
+      },
+      {
+        "page": 37,
+        "name": "G+4 Building",
+        "place": "Warsan",
+        "text": "Complete systems: CCTV, access control, SMATV, video intercom, gate barrier, and structured cabling."
+      },
+      {
+        "page": 38,
+        "name": "G+3+Roof Building",
+        "place": "Al Warqa 3",
+        "text": "Complete low-current systems: CCTV, access control, SMATV, gate barrier, and structured cabling."
+      },
+      {
+        "page": 39,
+        "name": "Commercial & Residential Building (G+2)",
+        "place": "Jumeirah 1",
+        "text": "Complete low-current systems: CCTV, access control, intercom, SMATV, gate barrier, and structured cabling."
+      },
+      {
+        "page": 40,
+        "name": "Dr. Essa Al Haj Clinic (G+2+Roof)",
+        "place": "Dubai",
+        "text": "Complete low-current systems: CCTV, structured cabling, IP telephone system, and networking."
+      },
+      {
+        "page": 41,
+        "name": "Awqaf Retail Building (G+Roof)",
+        "place": "Al Warqa",
+        "text": "CCTV and structured cabling systems."
+      },
+      {
+        "page": 42,
+        "name": "28-Villa Compound (G+1)",
+        "place": "Al Safa",
+        "text": "Structured cabling and video intercom systems for the full 28-villa compound."
+      },
+      {
+        "page": 43,
+        "name": "Sidra & Maple Facility Communities",
+        "place": "Dubai Hills Estate",
+        "text": "CCTV systems for the Sidra 1, Maple 1, Sidra 3, and Maple 3 facility communities."
+      },
+      {
+        "page": 44,
+        "name": "Abu Dhabi University",
+        "place": "Abu Dhabi",
+        "text": "Campus-wide GSM system modernization."
+      },
+      {
+        "page": 45,
+        "name": "Marina Mall",
+        "place": "Abu Dhabi",
+        "text": "Complete installation and configuration of Etisalat Wi-Fi."
+      },
+      {
+        "page": 46,
+        "name": "Retail & Office Building",
+        "place": "Nad Al Hamar",
+        "text": "Complete CCTV and gate barrier systems."
+      },
+      {
+        "page": 47,
+        "name": "Ground-Floor Building",
+        "place": "Lesili",
+        "text": "Complete low-current systems: CCTV, SMATV, gate barrier, and structured cabling."
+      },
+      {
+        "page": 48,
+        "name": "Magrabi Eye Clinic",
+        "place": "Mirdif",
+        "text": "Complete low-current systems: CCTV, structured cabling, access control, nurse call, master clock, and active network."
+      },
+      {
+        "page": 49,
+        "name": "G+2 Mall for Pure Gold Development",
+        "place": "Mirdif",
+        "text": "Complete low-current systems: CCTV, structured cabling, access control, and gate barrier."
+      },
+      {
+        "page": 50,
+        "name": "YA Avenue",
+        "place": "Mirdif",
+        "text": "Complete low-current systems: CCTV, structured cabling, access control, and gate barrier."
+      },
+      {
+        "page": 51,
+        "name": "Motor City Mosque",
+        "place": "Dubai",
+        "text": "Full low-current systems: CCTV, SMATV, structured cabling, and sound systems."
+      },
+      {
+        "page": 52,
+        "name": "Discovery Gardens Mosque",
+        "place": "Dubai",
+        "text": "Full low-current systems: CCTV, SMATV, structured cabling, and sound systems."
+      },
+      {
+        "page": 53,
+        "name": "Nad Al Sheba Mosque",
+        "place": "Dubai",
+        "text": "Full low-current systems: CCTV, SMATV, structured cabling, and sound systems."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Tell us about the building.",
+    "intro": "Send a few lines about your project — scale, location, timeline — and our team will come back to you.",
+    "address": "BIN Ham Building, Office M02, Port Saeed, Deira, Dubai — P.O. Box 98273",
+    "phone": "+971 4 295 9609",
+    "email": "info@aittechs.com",
+    "addressLabel": "Office",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "form": {
+      "name": "Your name",
+      "email": "Work email",
+      "message": "About the project",
+      "messagePlaceholder": "e.g. G+12 residential tower in Business Bay — CCTV, access control, SMATV…",
+      "submit": "Send inquiry",
+      "sent": "Your email client will open with the inquiry — or write to us directly at info@aittechs.com."
+    }
+  },
+  "footer": {
+    "blurb": "Security systems integrator based in Dubai, serving the Middle East and North Africa since 2014.",
+    "links": "Site",
+    "reach": "Reach us",
+    "rights": "© {{year}} Advanced Integrated Technologies LLC. All rights reserved."
+  }
+}
